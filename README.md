@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NeoPulsa
 
 Proyek ini merupakan simulasi sistem manajemen konter pulsa sederhana bernama **NeoPulsa**, dibangun menggunakan Laravel 10+. Proyek ini merupakan contoh portfolio.
@@ -102,3 +103,7 @@ Proyek ini merupakan simulasi sistem manajemen konter pulsa sederhana bernama **
 Nama: Yuniar Nf
 Role: Full Stack Developer (Laravel, React)
 Status: Open for freelance
+=======
+# neopulsa
+Laravel Project - NeoPulsa Template Update &amp; Log Activity
+>>>>>>> 7c63bf3b245ce6625f83d3b1e35032864f4b7d46
